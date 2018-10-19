@@ -7,6 +7,8 @@ List of broken links on ch.ch which need to be fixed
 
 * update file (makr changes)
 
+* save file with yyyymmdd_broken_links.xlsx
+
 * upload file
 
 Thank you!
