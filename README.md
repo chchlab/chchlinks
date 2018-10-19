@@ -1,6 +1,12 @@
 # chchlinks
 List of broken links on ch.ch which need to be fixed
-Download the file
-Fix links
-update file
-upload file
+
+* download the file
+
+* fix links
+
+* update file (makr changes)
+
+* upload file
+
+Thank you!
